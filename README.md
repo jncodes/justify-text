@@ -10,4 +10,4 @@ Write a function that takes in a string and prints it to the console so that eac
 
 ## Solution:
 
-![alt text](https://github.com/jncodes/justify-text/printed.png "Your solution should match this image")
+![alt text](https://github.com/jncodes/justify-text/blob/master/printed.png "Your solution should match this image")
